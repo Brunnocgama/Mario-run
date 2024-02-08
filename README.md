@@ -1,6 +1,6 @@
 <h1 align="center">Jogo Mario Run</h1>
 <h2>Projeto de aprendizado para jogos em HTML, CSS e JS</h2>
-<P> Projeto de corrida onde o "mario" esta correndo e precisa pular sobre o tubo,  </P> 
+<P> Projeto o "mario" esta correndo e precisa pular sobre o tubo,  </P> 
 <P> setInterval, setTimeout e clearInterval (js) </P>
 <P> @keyframes, animation  (css) </P>
 <P> são apenas alguns pontos usados dentro do desenvolvimento. </P>
